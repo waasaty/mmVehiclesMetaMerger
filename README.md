@@ -12,4 +12,4 @@ You are allowed to edit this program, just do it as a GitHub fork. If you want t
 Please, do not claim my work as yours, put link to my GitHub profile in readme file.
 
 # LINKS
-- Mounth RolePlay (https://discord.gg/mounthrp)
+- [Mounth RolePlay](https://discord.gg/mounthrp)
