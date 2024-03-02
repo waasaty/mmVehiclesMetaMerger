@@ -10,3 +10,6 @@ Click [here](https://github.com/mmleczek/mmVehiclesMetaMerger/releases) to go to
 # License (custom one)
 You are allowed to edit this program, just do it as a GitHub fork. If you want to add new features, feel free to PR them.
 Please, do not claim my work as yours, put link to my GitHub profile in readme file.
+
+# LINKS
+- Mounth RolePlay (https://discord.gg/mounthrp)
